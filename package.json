@@ -1,0 +1,20 @@
+{
+  "name": "node-parte3",
+  "version": "1.0.0",
+  "description": "Generador Node de números random",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerVilchez/node-parte3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerVilchez/node-parte3/issues"
+  },
+  "homepage": "https://github.com/developerVilchez/node-parte3#readme"
+}
